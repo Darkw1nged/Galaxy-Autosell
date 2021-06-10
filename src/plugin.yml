@@ -1,0 +1,12 @@
+name: GAutosell
+version: 1.0
+author: darkwinged
+api-version: 1.13
+main: me.darkwinged.Autosell.Main
+depend: [Vault]
+commands:
+  autosmelt:
+  autoblock:
+  autosell:
+  sellall:
+  
